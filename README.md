@@ -8,7 +8,7 @@
 
 <p align="left">   <a href="https://linkedin.com/in/kevyn-herbert" target="_blank"> <img alt="LinkedIn" src="icons/linkedin.png" height="40" />" </a>
   <a href="https://instagram.com/kevynmars_" target="_blank"> <img alt="Instagram" src="icons/instagram.png" height="40" /> </a>
-  <a href="https://twitter.com/kevynmars_" target="_blank"> <img alt="Twitter" src="icons/twitter.png" height="40" />" </a>
+  <a href="https://twitter.com/kevynmars_" target="_blank"> <img alt="X" src="icons/twitter.png" height="40" />" </a>
  
 ### Languages & Tools:
   
